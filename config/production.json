@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://vjeko:vjeko123@developerconnector-6phji.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecret",
+  "githubClientId": "644f94ada5d2fbe11584",
+  "githubSecret": "fd207abc6ba6dfdb1549351068f569f529ea5f57"
+}
