@@ -1,6 +1,10 @@
 {
   "name": "devconnector",
   "version": "1.0.0",
+  "engines": {
+    "node": "11.10.0",
+    "npm": "6.9.0"
+  },
   "description": "Developer Connector new version",
   "main": "server.js",
   "scripts": {
